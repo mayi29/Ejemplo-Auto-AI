@@ -8,15 +8,18 @@ La automatización y la inteligencia artificial (IA) están transformando las em
 
 - [IBM Auto AI](https://translate.googleusercontent.com/translate_c?depth=1&hl=es&pto=aue&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html&usg=ALkJrhjQI5vcQ5VZ467IRPjEAf1IjokHwg) : Es una herramienta gráfica. AutoAI en Watson Studio analiza automáticamente los datos y genera tuberías de modelos candidatas personalizadas para problemas de modelado predictivo.
 
-## 2. Tecnologías :	📎
 ## 3. Auto-IA por medio de IBM CLOUD 🚀
+
+
 ### Cuenta IBM Cloud 
 
 Regístrese en IBM Cloud, sino tiene una cuenta creela.
 
 [CREAR CUENTA-IBM CLOUD](https://cloud.ibm.com/registration)
-![6](https://user-images.githubusercontent.com/44415995/77944644-eb784a00-7284-11ea-9ebf-da5e6f6b287e.jpg)
 
+### Cree un nuevo proyecto de Watson Studio
+
+Regístrece en [Watson Studio IBM](https://dataplatform.cloud.ibm.com/home?context=wdp)
 
 
 
@@ -29,6 +32,7 @@ _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos propor
 
 
 ## Mas información 📖
+2. Tecnologías :	📎
 Puede hacer uso de esto u otros servicios en la nube [IBM-CLOUD](https://www.ibm.com/co-es/cloud)
 
 Es posible incorporar Watson Assitant en un portal web [IncorporaciónPortal](https://github.com/emeloibmco/Agente-Virtual-COVID-19/blob/master/Incorporaci%C3%B3nAssistantPortal.md)
