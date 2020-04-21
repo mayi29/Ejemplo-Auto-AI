@@ -31,13 +31,19 @@ Dele un nombre al proyecto y asignele un object storage, en caso de no tener est
 <img width="889" alt="3" src="https://user-images.githubusercontent.com/44415995/79925208-6a355280-83ff-11ea-898c-8088316c4179.png">
 
 ### Agregar Datos:
-Descargue este repositorio, donde encontrará un archivo .cvs.
-Haga clic en Activos y seleccione Examinar y agregue el archivo csv desde su máquina.
+Descargue este repositorio, donde encontrará un archivo cvs.
+
+Haga clic en los cuadros de la parte inferior y seleccione browser, agregue el archivo csv desde su máquina.
 
 <img width="946" alt="4" src="https://user-images.githubusercontent.com/44415995/79925771-cc428780-8400-11ea-95ee-94155b8b63ad.png">
 
 
 
+### Agregamos Auto IA al proyecto
+
+Haga clic en Agregar al proyecto y seleccione AutoAI experiment.
+
+<img width="585" alt="5" src="https://user-images.githubusercontent.com/44415995/79926015-77534100-8401-11ea-9f86-aba79221524c.png">
 
 ## Construido con 🛠️
 _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
