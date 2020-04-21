@@ -13,17 +13,15 @@ La automatización y la inteligencia artificial (IA) están transformando las em
 
 ### Cuenta IBM Cloud 
 
-Regístrese en IBM Cloud, sino tiene una cuenta creela.
-
-[CREAR CUENTA-IBM CLOUD](https://cloud.ibm.com/registration)
+Regístrese en IBM Cloud, en caso no tener un cuenta activa, [registrate](https://cloud.ibm.com/registration)
 
 ### Cree un nuevo proyecto de Watson Studio
 
 Regístrece en [Watson Studio IBM](https://dataplatform.cloud.ibm.com/home?context=wdp)
 
+Haz clic en create a project:
 
-
-
+<img width="366" alt="1" src="https://user-images.githubusercontent.com/44415995/79924581-bf706480-83fd-11ea-954e-ad929975f657.PNG">
 
 
 ## Construido con 🛠️
