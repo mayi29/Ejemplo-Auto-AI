@@ -13,7 +13,7 @@ La automatización y la inteligencia artificial (IA) están transformando las em
 
 ### Cuenta IBM Cloud 
 
-Regístrese en IBM Cloud, en caso no tener un cuenta activa, [registrate](https://cloud.ibm.com/registration)
+Regístrese en IBM Cloud, en caso no tener un cuenta, [activa una gratis](https://cloud.ibm.com/registration)
 
 ### Cree un nuevo proyecto de Watson Studio
 
@@ -23,6 +23,9 @@ Haz clic en create a project:
 
 <img width="366" alt="1" src="https://user-images.githubusercontent.com/44415995/79924581-bf706480-83fd-11ea-954e-ad929975f657.PNG">
 
+Cree un proyecto vacío:
+
+<img width="842" alt="2" src="https://user-images.githubusercontent.com/44415995/79925056-ff841700-83fe-11ea-99ed-b1777645340d.PNG">
 
 ## Construido con 🛠️
 _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
