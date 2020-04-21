@@ -37,13 +37,12 @@ Haga clic en los cuadros de la parte inferior y seleccione browser, agregue el a
 
 <img width="946" alt="4" src="https://user-images.githubusercontent.com/44415995/79925771-cc428780-8400-11ea-95ee-94155b8b63ad.png">
 
-
-
-### Agregamos Auto IA al proyecto
-
+### Agregue Auto IA al proyecto
 Haga clic en Agregar al proyecto y seleccione AutoAI experiment.
 
 <img width="585" alt="5" src="https://user-images.githubusercontent.com/44415995/79926015-77534100-8401-11ea-9f86-aba79221524c.png">
+
+⚠️  Importante: La cuenta Lite para AutoAI viene con 50 unidades de capacidad por mes y AutoAI consume 20 unidades de capacidad por hora.⚠️ 
 
 ## Construido con 🛠️
 _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
