@@ -9,9 +9,6 @@ La automatización y la inteligencia artificial (IA) están transformando las em
 - [IBM Auto AI](https://translate.googleusercontent.com/translate_c?depth=1&hl=es&pto=aue&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html&usg=ALkJrhjQI5vcQ5VZ467IRPjEAf1IjokHwg) : Es una herramienta gráfica. AutoAI en Watson Studio analiza automáticamente los datos y genera tuberías de modelos candidatas personalizadas para problemas de modelado predictivo.
 
 ## 3. Auto-IA por medio de IBM CLOUD 🚀
-Dele un nombre al proyecto y asignele un object storage, en caso de no este servicio,[adquieralo](https://www.ibm.com/co-es/cloud/object-storage)
-
-<img width="889" alt="3" src="https://user-images.githubusercontent.com/44415995/79925208-6a355280-83ff-11ea-898c-8088316c4179.png">
 
 ### Cuenta IBM Cloud 
 
@@ -28,6 +25,19 @@ Haz clic en create a project:
 Cree un proyecto vacío:
 
 <img width="842" alt="2" src="https://user-images.githubusercontent.com/44415995/79925056-ff841700-83fe-11ea-99ed-b1777645340d.PNG">
+
+Dele un nombre al proyecto y asignele un object storage, en caso de no tener este servicio, [adquieralo](https://www.ibm.com/co-es/cloud/object-storage)
+
+<img width="889" alt="3" src="https://user-images.githubusercontent.com/44415995/79925208-6a355280-83ff-11ea-898c-8088316c4179.png">
+
+### Agregar Datos:
+Descargue este repositorio, donde encontrará un archivo .cvs.
+Haga clic en Activos y seleccione Examinar y agregue el archivo csv desde su máquina.
+
+<img width="946" alt="4" src="https://user-images.githubusercontent.com/44415995/79925771-cc428780-8400-11ea-95ee-94155b8b63ad.png">
+
+
+
 
 ## Construido con 🛠️
 _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
