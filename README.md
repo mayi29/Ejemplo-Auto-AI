@@ -1,8 +1,12 @@
-
 # Watson Studio IBM - AutoIA
 
 ## 1. Componentes 📋 
-## 2. Tecnologías
+
+- [IBM Watson Studio](https://translate.googleusercontent.com/translate_c?depth=1&hl=es&pto=aue&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://www.ibm.com/cloud/watson-studio&usg=ALkJrhgT0_qVcn95zvZfNTnGnfq5uHL9Wg) : Es posible analizar datos con RStudio, Jupyter y Python en un entorno configurado y colaborativo que incluye valores agregados de IBM, como Spark administrado.
+
+- [IBM Auto AI](https://translate.googleusercontent.com/translate_c?depth=1&hl=es&pto=aue&rurl=translate.google.com&sl=auto&sp=nmt4&tl=es&u=https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/autoai-overview.html&usg=ALkJrhjQI5vcQ5VZ467IRPjEAf1IjokHwg) : Es una herramienta gráfica. AutoAI en Watson Studio analiza automáticamente los datos y genera tuberías de modelos candidatas personalizadas para problemas de modelado predictivo.
+
+## 2. Tecnologías :	📎
 ## 3. Auto-IA por medio de IBM CLOUD 🚀
 ### Cuenta IBM Cloud 
 
