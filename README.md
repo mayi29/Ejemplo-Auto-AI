@@ -72,6 +72,10 @@ Cada tubería se ejecuta con diferentes parámetros, en algunas tuberias se ejec
 
 <img width="943" alt="13" src="https://user-images.githubusercontent.com/44415995/79933168-dc646200-8414-11ea-8660-c85d737841c6.PNG">
 
+Haga clic en la tubería que ocupa el puesto 1 para ver las métricas de evaluación en el lado izquierdo.
+el rendimiento del modelo en la muestra de espera y el puntaje de validación cruzada. Podemos observar que a nuestro modelo le ha ido muy bien al calificar> 95% en la recuperación, puntajes de precisión promedio y área bajo los puntajes de la curva. Estos puntajes también significan que nuestro modelo puede recordar e identificar transacciones fraudulentas con gran precisión
+
+<img width="629" alt="14" src="https://user-images.githubusercontent.com/44415995/79933418-9956be80-8415-11ea-8a57-901e5489b8b6.PNG">
 
 
 ## Construido con 🛠️
