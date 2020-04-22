@@ -78,22 +78,34 @@ el rendimiento del modelo en la muestra de espera y el puntaje de validación cr
 <img width="629" alt="14" src="https://user-images.githubusercontent.com/44415995/79933418-9956be80-8415-11ea-8a57-901e5489b8b6.PNG">
 
 Haga clic en la importancia de la característica para identificar las características significativas que influyen en el resultado. 
+
 <img width="418" alt="15" src="https://user-images.githubusercontent.com/44415995/79933647-3ca7d380-8416-11ea-9406-323343225b86.PNG">
 
 seleccione el modelo con mayor ranking para la implementación. Dele clic Guardar como modelo y asigenle un nombre.
+
 <img width="943" alt="16" src="https://user-images.githubusercontent.com/44415995/79934228-ae345180-8417-11ea-84b6-4a33a2f73793.png">
 
 
 ### Implemente el modelo:
 El modelo guardado se puede encontrar Models debajo del proyecto en Watson Studio. Haga clic en tres puntos en el lado derecho debajo de Acciones y presione Deploy.
+
 <img width="734" alt="17" src="https://user-images.githubusercontent.com/44415995/79934403-13884280-8418-11ea-80fa-ac4cd7dcd26f.png">
 
 Haga clic en create Deployment en el lado derecho arriba.
+
 <img width="934" alt="18" src="https://user-images.githubusercontent.com/44415995/79934576-7da0e780-8418-11ea-9df5-e6b8b4461598.png">
 
 Defina la implementación dando un nombre y presione Save.Tenga en cuenta que el modelo se implementará como servicio web como una API ReST.
+
 <img width="452" alt="19" src="https://user-images.githubusercontent.com/44415995/79934686-bc36a200-8418-11ea-8a11-859422d93223.PNG">
 
+La implementación se inicializará y el estado se mostrará como readycuando se haya completado.
+
+<img width="944" alt="20" src="https://user-images.githubusercontent.com/44415995/79937017-71b82400-841e-11ea-87c7-a716c82c226d.PNG">
+
+### Pruebe el modelo:
+Podemos hacer clic en el modelo implementado para ver las pestañas de , Overview, Implementation y Test.
+Ingrese a la pestaña Test para probar el modelo.
 
 ## Construido con 🛠️
 _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
