@@ -28,10 +28,9 @@ Dele un nombre al proyecto y asignele un object storage, en caso de no tener est
 Descargue este repositorio, donde encontrará un archivo cvs.
 
 Haga clic en los cuadros de la parte inferior y seleccione browser, agregue el archivo csv desde su máquina.
-
 <img width="946" alt="4" src="https://user-images.githubusercontent.com/44415995/79925771-cc428780-8400-11ea-95ee-94155b8b63ad.png">
 
-### Agregue Auto IA al proyecto:
+### Agregue Auto IA al proyecto
 Haga clic en Agregar al proyecto y seleccione AutoAI experiment.
 
 <img width="585" alt="5" src="https://user-images.githubusercontent.com/44415995/79926015-77534100-8401-11ea-9f86-aba79221524c.png">
@@ -115,8 +114,6 @@ Ingrese a la pestaña Test para probar el modelo, se encontrá con dos opciones 
 <img width="455" alt="23" src="https://user-images.githubusercontent.com/44415995/79994637-d8b7f600-847b-11ea-9385-0a42cdbfd8ef.png">
 
 
-
-
 - JSON --> Es posible ingresar múltiples registros, se debe actualizar los valores en el archivo json  y luego presionar Predict para generar la predicción.
 
 *Input JSON:*
@@ -128,24 +125,13 @@ Ingrese a la pestaña Test para probar el modelo, se encontrá con dos opciones 
 📍 La salida  0 indica una transacción fraudulenta y 1 no fraudalante.
 
 
-
-
-
-
 ## Construido con 🛠️
-_Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
-* [IBM](https://www.ibm.com/cloud/watson-assistant/) - El servicio
-
-
-
+- [IBM CLOUD](https://developer.ibm.com/technologies/artificial-intelligence/)
 
 ## Mas información 📖
-2. Tecnologías :	📎
-Puede hacer uso de esto u otros servicios en la nube [IBM-CLOUD](https://www.ibm.com/co-es/cloud)
+- [Inteligencia artificial](https://www.ibm.com/cloud/)
+- [Referencia principal](https://github.com/IBM/predict-fraud-using-auto-ai)
 
-Es posible incorporar Watson Assitant en un portal web [IncorporaciónPortal](https://github.com/emeloibmco/Agente-Virtual-COVID-19/blob/master/Incorporaci%C3%B3nAssistantPortal.md)
-
-Incorpore Watson Assitant en Facebook [IncorporaciónFacebook](https://github.com/emeloibmco/Agente-Virtual-COVID-19/blob/master/AsssistanIntegracionFacebook.md)
 
 ## Autores ✒️
 * **IBM** - *Equipo IBM Cloud*
