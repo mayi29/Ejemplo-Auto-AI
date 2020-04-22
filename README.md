@@ -45,9 +45,14 @@ Haga clic en Agregar al proyecto y seleccione AutoAI experiment.
 ⚠️  Importante: La cuenta Lite para AutoAI viene con 50 unidades de capacidad por mes y AutoAI consume 20 unidades de capacidad por hora.⚠️ 
 
 ### Cree el experimento
+Haga clic en Nuevo experimento AutoAI y asigne un nombre al experimento.
+<img width="670" alt="7" src="https://user-images.githubusercontent.com/44415995/79929647-f0f02c80-840b-11ea-8b03-a55f107c49c6.PNG">
 
+Haga clic en Asociar una instancia de servicio de Machine Learning a este proyecto y seleccione la instancia de servicio de Machine Learning y presione recargar. Si no tiene una instancia del servicio de Machine Learning, siga los pasos en la pantalla para obtener una.
+El botón Crear en la parte inferior derecha se resalta, continúa y presiona Crear.
 
-<img width="585" alt="5" src="https://user-images.githubusercontent.com/44415995/79926015-77534100-8401-11ea-9f86-aba79221524c.png">
+<img width="920" alt="8" src="https://user-images.githubusercontent.com/44415995/79929760-4593a780-840c-11ea-989c-43bf33650547.PNG">
+
 
 ## Construido con 🛠️
 _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
