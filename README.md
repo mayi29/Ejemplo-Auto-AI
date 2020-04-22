@@ -105,7 +105,32 @@ La implementación se inicializará y el estado se mostrará como readycuando se
 
 ### Pruebe el modelo:
 Podemos hacer clic en el modelo implementado para ver las pestañas de , Overview, Implementation y Test.
-Ingrese a la pestaña Test para probar el modelo.
+Ingrese a la pestaña Test para probar el modelo, se encontrá con dos opciones form y JSON.
+
+- Formulario --> Se usa para probar un registro a la vez donde podemos dar los valores a cada atributo manualmente y presionar Predict para generar la predicción.
+
+*Registro por registro (dato tomado de la BD)*
+<img width="788" alt="22" src="https://user-images.githubusercontent.com/44415995/79994177-3bf55880-847b-11ea-8ee0-b28420a9f197.PNG">
+
+<img width="455" alt="23" src="https://user-images.githubusercontent.com/44415995/79994637-d8b7f600-847b-11ea-9385-0a42cdbfd8ef.png">
+
+
+
+
+- JSON --> Es posible ingresar múltiples registros, se debe actualizar los valores en el archivo json  y luego presionar Predict para generar la predicción.
+
+*Input JSON:*
+```
+{"input_data": [{"fields": ["Gender", "Married", "Dependents", "Education", "Self_Employed", "ApplicantIncome", "CoapplicantIncome", "LoanAmount", "Loan_Term", "Credit_History_Available", "Housing", "Locality"], "values": [[1,0,0,0,0,3748,1668,110,360,1,0,2,0]]}]}
+```
+<img width="550" alt="21" src="https://user-images.githubusercontent.com/44415995/79993739-b2de2180-847a-11ea-8b25-9c02e38e05b7.png">
+
+📍 La salida  0 indica una transacción fraudulenta y 1 no fraudalante.
+
+
+
+
+
 
 ## Construido con 🛠️
 _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
