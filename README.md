@@ -58,10 +58,21 @@ Tenemos que seleccionar la variable de destino, en este caso es Fraud_Risk. Obse
 <img width="563" alt="10" src="https://user-images.githubusercontent.com/44415995/79930165-67415e80-840d-11ea-822d-6eb79677efb0.PNG">
 
 Podemos hacer clic en experiment setting para ajustar la muestra reservada y la muestra de entrenamiento en la configuración de origen, si no desea editar nada, haga clicl en run experiment.
+Para este caso cambiamos la métrica de optimización por ROC AUC.
 
 <img width="559" alt="10" src="https://user-images.githubusercontent.com/44415995/79930771-f3a05100-840e-11ea-9641-8a687dd2a911.PNG">
 
 ### Resultados
+El experimento AutoAI se completó y  genero ocho tuberías. La duración del experimento depende completamente del tamaño de la BD.
+AutoAI selecciona el algoritmo de aprendizaje automático apropiado que se adapta mejor al conjunto de datos.
+
+Cada tubería se ejecuta con diferentes parámetros, en algunas tuberias se ejecuta en una secuencia de HPO (optimización de hiperparámetros) y FE (ingeniería de características), mientras que en otras incluye HPO (optimización de hiperparámetros), FE (ingeniería de características) y una combinación de ambos . ¡Todo esto se hace sobre la marcha! ¡¡No es sorprendente que solo tengamos que sentarnos y mirar mientras AutoAI se ocupa de las cosas por nosotros y genera increíbles modelos de aprendizaje automático !! Se requiere una intervención mínima para que todo funcione y en poco tiempo tenemos los canales generados para elegir.
+
+<img width="679" alt="12" src="https://user-images.githubusercontent.com/44415995/79933147-cfe00980-8414-11ea-8496-4ce9a54dfb2c.PNG">
+
+<img width="943" alt="13" src="https://user-images.githubusercontent.com/44415995/79933168-dc646200-8414-11ea-8660-c85d737841c6.PNG">
+
+
 
 ## Construido con 🛠️
 _Se uso IBM Cloud para utilizar los servicios de Watson Assistant que nos proporcionó las herramientas necesarias para crear el chat-bot_
