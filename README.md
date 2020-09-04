@@ -122,7 +122,7 @@ Ingrese a la pestaña Test para probar el modelo, se encontrá con dos opciones 
 ```
 <img width="550" alt="21" src="https://user-images.githubusercontent.com/44415995/79993739-b2de2180-847a-11ea-8b25-9c02e38e05b7.png">
 
-📍 La salida  0 indica una transacción fraudulenta y 1 no fraudalante.
+📍 La salida  1 indica una transacción fraudulenta y 0 no fraudalante.
 
 
 ## Construido con 🛠️
